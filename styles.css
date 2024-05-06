@@ -1,0 +1,55 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  width: 25%;
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 7rem;
+  color: #95B7D7;
+}
+
+p {
+  font-size: 2rem;
+  color: #95B7D7;
+  font-family: serif;
+}
+
+img {
+  width: 80%;
+}
+
+button {
+  margin-top: 3rem;
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  color: white;
+  background-color: #95B7D7;
+  box-shadow: 5px 0 #232931;
+  border-radius: 10%;
+}
+
+button:hover {
+  cursor: pointer;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+footer {
+  margin-top: 5%;
+  color: #516D86;
+  text-align: center;
+  font-family: serif;
+}
