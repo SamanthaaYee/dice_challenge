@@ -1,1 +1,1 @@
-just a silly little game
+a simple dice game made with JS, HTML & CSS
